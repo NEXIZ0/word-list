@@ -1,2 +1,0 @@
-subdomain-worlslist/10m-sub-voorivex.txt filter=lfs diff=lfs merge=lfs -text
-subdomain-worlslist/best-dns-wordlist.txt filter=lfs diff=lfs merge=lfs -text
