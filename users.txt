@@ -1,0 +1,7 @@
+admin
+root
+tomcat
+superuser
+Admin
+mylearnerportal
+aff
